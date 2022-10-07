@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-dotenv
+orjson
+databases[postgresql]
+psycopg2
+alembic
